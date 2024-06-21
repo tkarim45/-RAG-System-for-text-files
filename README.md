@@ -1,1 +1,50 @@
-# -RAG-System-for-text-files
+<h1 align="center">RAG-System-for-text-files</h1>
+
+
+### Overview
+This repository contains a Question Answering (QA) system built using LangChain, a framework for assembling NLP pipelines. The system uses Hugging Face embeddings, FAISS for efficient document retrieval, and OpenAI's GPT-3.5-turbo model for answering questions based on provided context.
+
+### Features
+- **Document Loading:** Loads documents from PDF files using PyPDFLoader.
+- **Text Splitting:** Splits the loaded documents into smaller texts for efficient processing.
+- **Embeddings:** Utilizes Hugging Face embeddings to encode text.
+- **Vector Store:** Stores encoded texts using FAISS for fast document retrieval.
+- **Question Answering:** Uses LangChain to create a pipeline that answers questions based on the provided context.
+- **Contextual Question Answering:** Answers questions by using the provided context to guide the answer generation process.
+
+### Setup
+1. Clone the repository:
+   ```
+   git clone https://github.com/tkarim45/RAG-System-for-text-files.git
+   cd your-repo
+   ```
+
+2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+
+3. Set up environment variables:
+   - Set `OPENAI_API_KEY` to your OpenAI API key.
+
+
+### Example Questions
+The system is designed to answer questions based on the provided documents. Example questions include:
+- What is the focus of the 'MeshAnything' project?
+- Which paper discusses the integration of Large Language Models with Monte Carlo Tree Search?
+- What advancements does the 'VideoLLaMA 2' paper propose?
+- Which paper was published most recently?
+- Identify a paper that deals with language modeling and its scalability.
+- Which paper aims at improving accuracy in Google-Proof Question Answering?
+- List the categories covered by the paper titled 'TextGrad: Automatic "Differentiation" via Text'.
+- Which paper received the highest number of stars per hour?
+
+### Notes
+- If the question is not related to the provided context, the system will respond with "No information".
+
+### License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Make sure to replace `"your-username"` and `"your-repo"` with your actual GitHub username and repository name. This description provides an overview of your repository, how to set it up, example questions it can answer, and a note about how it handles unrelated questions. Adjust it as needed based on any additional features or modifications you've made to the code.
