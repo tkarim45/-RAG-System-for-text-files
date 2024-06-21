@@ -1,4 +1,4 @@
-<h1 align="center">RAG-System-for-text-files</h1>
+<h1 align="center">RAG-Using LangChain</h1>
 
 
 ### Overview
