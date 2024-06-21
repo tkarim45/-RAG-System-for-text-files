@@ -25,7 +25,10 @@ This repository contains a Question Answering (QA) system built using LangChain,
    ```
 
 3. Set up environment variables:
-   - Set `OPENAI_API_KEY` to your OpenAI API key.
+   ```
+   touch .env
+   ```
+   - Set `OPENAI_API_KEY = "Your OPENAI Key"` to your OpenAI API key in the .evn file.
 
 
 ### Example Questions
