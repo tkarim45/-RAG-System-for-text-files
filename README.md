@@ -28,7 +28,7 @@ This repository contains a Question Answering (QA) system built using LangChain,
    ```
    touch .env
    ```
-   - Set `OPENAI_API_KEY = "Your OPENAI Key"` to your OpenAI API key in the .evn file.
+   - Set `OPENAI_API_KEY = "Your OPENAI Key"` to your OpenAI API key in the .env file.
 
 
 ### Example Questions
