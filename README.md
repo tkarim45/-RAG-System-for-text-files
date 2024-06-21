@@ -41,10 +41,3 @@ The system is designed to answer questions based on the provided documents. Exam
 
 ### Notes
 - If the question is not related to the provided context, the system will respond with "No information".
-
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Make sure to replace `"your-username"` and `"your-repo"` with your actual GitHub username and repository name. This description provides an overview of your repository, how to set it up, example questions it can answer, and a note about how it handles unrelated questions. Adjust it as needed based on any additional features or modifications you've made to the code.
