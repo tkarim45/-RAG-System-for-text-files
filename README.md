@@ -1,4 +1,4 @@
-<h1 align="center">RAG-Using LangChain</h1>
+<h1 align="center">RAG using LangChain</h1>
 
 
 ### Overview
