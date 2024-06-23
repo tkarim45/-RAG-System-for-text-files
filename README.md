@@ -43,4 +43,4 @@ The system is designed to answer questions based on the provided documents. Exam
 - Which paper received the highest number of stars per hour?
 
 ### Notes
-- If the question is not related to the provided context, the system will respond with "No information".
+- If the question is not related to the provided context, the system will respond with "No information" or I'm sorry, but based on the provided context I cannot answer that question.
