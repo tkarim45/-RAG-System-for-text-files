@@ -1,7 +1,7 @@
 <h1 align="center">RAG using LangChain</h1>
 
 <p align="center">
-  <img src="assets/Logo.png" alt="Project Overview" width="350">
+  <img src="Assets/Logo.png" alt="Project Overview" width="350">
 </p>
 
 
