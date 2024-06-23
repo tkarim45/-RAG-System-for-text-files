@@ -1,10 +1,5 @@
 <h1 align="center">RAG using LangChain</h1>
 
-<p align="center">
-  <img src="Assets/Logo.png" alt="Project Overview" width="350">
-</p>
-
-
 ## Table of Contents
 
 1. [Overview](#overview)
