@@ -1,5 +1,18 @@
 <h1 align="center">RAG using LangChain</h1>
 
+<p align="center">
+  <img src="assets/Logo.png" alt="Project Overview" width="350">
+</p>
+
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Setup](#setup)
+4. [Example Questions](#example-questions)
+5. [Notes](#notes)
+
 
 ### Overview
 This repository contains a Question Answering (QA) system built using LangChain, a framework for assembling NLP pipelines. The system uses Hugging Face embeddings, FAISS for efficient document retrieval, and OpenAI's GPT-3.5-turbo model for answering questions based on provided context.
